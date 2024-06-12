@@ -1,0 +1,10 @@
+# ninja log v6
+3	63	1718218487483850548	CMakeFiles/LinearRegressionInC.dir/main.c.o	e02149e52199c1d8
+5	65	1718218487483850548	CMakeFiles/LinearRegressionInC.dir/linear_regreession.c.o	d3e6a9aa2f157002
+66	102	1718218487543850622	LinearRegressionInC	2bf55b557b8d0437
+1	56	1718218564379926073	CMakeFiles/LinearRegressionInC.dir/main.c.o	e02149e52199c1d8
+56	93	1718218564431926114	LinearRegressionInC	2bf55b557b8d0437
+1	57	1718218585491941624	CMakeFiles/LinearRegressionInC.dir/main.c.o	e02149e52199c1d8
+57	93	1718218585547941663	LinearRegressionInC	2bf55b557b8d0437
+1	58	1718218596871949325	CMakeFiles/LinearRegressionInC.dir/main.c.o	e02149e52199c1d8
+58	99	1718218596927949361	LinearRegressionInC	2bf55b557b8d0437
