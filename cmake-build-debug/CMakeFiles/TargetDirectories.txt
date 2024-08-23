@@ -1,3 +1,0 @@
-/home/rajab/Desktop/LinearRegressionInC/cmake-build-debug/CMakeFiles/LinearRegressionInC.dir
-/home/rajab/Desktop/LinearRegressionInC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/rajab/Desktop/LinearRegressionInC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
