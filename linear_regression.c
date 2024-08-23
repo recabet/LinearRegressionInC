@@ -32,7 +32,7 @@ float* train(float coeff, float bias, const float epsilon,const  float rate, siz
 	float* wb_tuple =(float*) malloc(sizeof(float) * 2);
 
 	if(wb_tuple == NULL) {
-		fprintf(stderr, "Memory allocation failed\n", errno);
+		perror("Linear regression");
 		exit(EXIT_FAILURE);
 	}
 
