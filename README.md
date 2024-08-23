@@ -8,7 +8,6 @@ This project implements linear regression using gradient descent in C. It includ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functions](#functions)
-- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -20,13 +19,17 @@ Linear regression is a fundamental technique in statistics and machine learning 
 
 To use the linear regression library:
 
-1. Clone the repository: git clone https://github.com/recabet/LinearRegressionInC.git
-
-2. Navigate to the project directory: cd LinearRegerressionInC
-
+1. Clone the repository
+    ```
+        git clone https://github.com/recabet/LinearRegressionInC.git
+    ```
+2. Navigate to the project directory:
+    ```
+        cd LinearRegerressionInC
+    ```
 3. Run the example use of the library
     ```
-    make run
+        make run
     ```
 
 ## Usage
