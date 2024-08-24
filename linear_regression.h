@@ -13,9 +13,9 @@ extern size_t train_size;
 
 float randf();
 
-float cost(float coeff, float bias);
+float cost(const float coeff, const float bias);
 
-float* train(float coeff, float bias,float  epsilon, float rate, size_t iterations);
+float* fit(float coeff, float bias,const float  epsilon,const float rate, const size_t iterations);
 
 
 #endif //LINEAR_REGRESSION_H
